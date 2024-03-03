@@ -23,10 +23,10 @@ The Underwater Rescue Robot project aims to develop an autonomous robot equipped
 
 To get started with the project, please refer to the [documentation](link_to_documentation) for installation instructions, usage guidelines, and additional resources.
 
-## Contributing
+<!-- ## Contributing
 
 We welcome contributions from the community to help improve and enhance the project. If you're interested in contributing, please check out our [contribution guidelines](link_to_contributing) for more information.
 
 ## License
 
-This project is licensed under the [MIT License](link_to_license).
+This project is licensed under the [MIT License](link_to_license). -->
